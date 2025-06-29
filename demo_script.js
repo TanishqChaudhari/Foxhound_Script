@@ -128,4 +128,4 @@ function accessCookieWithDelay(cookieName, delay) {
         }
     }, delay);
 }
-accessCookieWithDelay("Cookie_consent", 3);
+accessCookieWithDelay("Cookie_consent", 3000);
